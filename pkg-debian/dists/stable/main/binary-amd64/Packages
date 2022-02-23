@@ -4,7 +4,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/arma3srv-script_1.1-1_amd64.deb
+Filename: pool/main/arma3srv-script_1.1-1_amd64.deb
 Size: 658628
 MD5sum: 1e7df9cc2e3cdab5842720a252d0c1a7
 SHA1: d78adf5bea7da5510dc367a02ece3834dd90bb10
@@ -18,7 +18,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail
-Filename: pkg-debian/pool/main/ausrv-script_1.0-9_amd64.deb
+Filename: pool/main/ausrv-script_1.0-9_amd64.deb
 Size: 550052
 MD5sum: 03f211c4617fa3dfce94bfb75412738d
 SHA1: 6a38022572d63ffd6f6db5973cbe741da85909e0
@@ -32,7 +32,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging
-Filename: pkg-debian/pool/main/hlnsrv-script_1.3-3_amd64.deb
+Filename: pool/main/hlnsrv-script_1.3-3_amd64.deb
 Size: 891740
 MD5sum: 9bf0dbb5f14d12b33fcbe3716b644261
 SHA1: 27e7fcf54b267976dd89832331c2a11a26dd4877
@@ -46,7 +46,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging
-Filename: pkg-debian/pool/main/isrsrv-script_1.7-3_amd64.deb
+Filename: pool/main/isrsrv-script_1.7-3_amd64.deb
 Size: 1560840
 MD5sum: e8cae6745ca03b6df9176441a5b7d786
 SHA1: b97bba3f6011f3843af0d1299c8ac790cbec0f42
@@ -60,7 +60,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
-Filename: pkg-debian/pool/main/mcsrv-script_1.4-2_amd64.deb
+Filename: pool/main/mcsrv-script_1.4-2_amd64.deb
 Size: 1210928
 MD5sum: 38a64b4a770aeb73da9956d57cf57ca5
 SHA1: 232efea7b61295a458d582632e2954394a506607
@@ -74,7 +74,7 @@ Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging
-Filename: pkg-debian/pool/main/sesrv-script_1.7-2_amd64.deb
+Filename: pool/main/sesrv-script_1.7-2_amd64.deb
 Size: 1218596
 MD5sum: 263bbfebdd294008952dd79bee4dcbec
 SHA1: 288984e3d323751bd4f0cdace62c6bb3dd8dc088
