@@ -1,4 +1,4 @@
-# 7thCore's script repository
+# 7thCore's scripts repository
 
 By installing the repository you will also be able to update the script using the package manager when a new update is available.
 
