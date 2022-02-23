@@ -6,7 +6,7 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Wed, 23 Feb 2022 13:23:21 +0000
+Date: Wed, 23 Feb 2022 16:05:41 +0000
 MD5Sum:
  1e7df9cc2e3cdab5842720a252d0c1a7 658628 pool/main/arma3srv-script_1.1-1_amd64.deb
  03f211c4617fa3dfce94bfb75412738d 550052 pool/main/ausrv-script_1.0-9_amd64.deb
@@ -16,7 +16,7 @@ MD5Sum:
  263bbfebdd294008952dd79bee4dcbec 1218596 pool/main/sesrv-script_1.7-2_amd64.deb
  08b5d079ad242fe68b99677eee750443 3602 dists/stable/main/binary-amd64/Packages
  519c244d3b67edff3cd0c72037d8eccf 1151 dists/stable/main/binary-amd64/Packages.gz
- 4af9d4f6683bfe15ea7fe97522bcae5b 879 dists/stable/Release
+ f15ea7932077f524e087cf2c909c5919 879 dists/stable/Release
 SHA1:
  d78adf5bea7da5510dc367a02ece3834dd90bb10 658628 pool/main/arma3srv-script_1.1-1_amd64.deb
  6a38022572d63ffd6f6db5973cbe741da85909e0 550052 pool/main/ausrv-script_1.0-9_amd64.deb
@@ -26,7 +26,7 @@ SHA1:
  288984e3d323751bd4f0cdace62c6bb3dd8dc088 1218596 pool/main/sesrv-script_1.7-2_amd64.deb
  c7a06bb2c59a918c87866ca354125986a5714413 3602 dists/stable/main/binary-amd64/Packages
  86fc4fb0136d972f1bcf5ac693cf20851f53304f 1151 dists/stable/main/binary-amd64/Packages.gz
- 344ffc48e0d34a22c9a11fa821fe2161bf983cd8 1657 dists/stable/Release
+ b20b7d88e22b1b7b8e65195300547432dcc4937f 1657 dists/stable/Release
 SHA256:
  0cb4a3ac48f7c4145f8fd63394eef47457bdf865f086d667dbfaf6ac1afd0728 658628 pool/main/arma3srv-script_1.1-1_amd64.deb
  6770f47e77aa64035caec54f66d7cdf90abef44a88f84325d8c168a63d85f131 550052 pool/main/ausrv-script_1.0-9_amd64.deb
@@ -36,4 +36,4 @@ SHA256:
  311e7692657950ef715dbd2e137daeeda575f50d10a0ee19e2a8f4ef4ea54cef 1218596 pool/main/sesrv-script_1.7-2_amd64.deb
  b9b3668c1242ca686e0f5967668371a29d066eb535a9431b9478382192a650e0 3602 dists/stable/main/binary-amd64/Packages
  f4612c90613643b1ef3f75cf73ce2e11fdde9e32087027aff28edc89360ca85d 1151 dists/stable/main/binary-amd64/Packages.gz
- fab0e45aabc78d83b9bfd8a9cfc587bff3d5e6f2cd6185127b7253b7c9b591df 2638 dists/stable/Release
+ b899f907114816713c0a1bcc0079e9f1cd44f7961e2909cc27aa75de59ab9470 2638 dists/stable/Release
