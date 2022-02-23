@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: 7thCore-scripts-Debian
+Label: 7thCore-scripts-Debian
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: 7thCore's Debian scripts repository
+Date: Wed, 23 Feb 2022 19:17:17 +0000
+MD5Sum:
+ 08b5d079ad242fe68b99677eee750443 3602 main/binary-amd64/Packages
+ 519c244d3b67edff3cd0c72037d8eccf 1151 main/binary-amd64/Packages.gz
+ 970c838e8fb9530d5f51c3e16d59998a 1180 main/binary-amd64/Packages.xz
+SHA1:
+ c7a06bb2c59a918c87866ca354125986a5714413 3602 main/binary-amd64/Packages
+ 86fc4fb0136d972f1bcf5ac693cf20851f53304f 1151 main/binary-amd64/Packages.gz
+ c719c4f71951b19ce6b3afc14356bbdc8a5ec9b9 1180 main/binary-amd64/Packages.xz
+SHA256:
+ b9b3668c1242ca686e0f5967668371a29d066eb535a9431b9478382192a650e0 3602 main/binary-amd64/Packages
+ f4612c90613643b1ef3f75cf73ce2e11fdde9e32087027aff28edc89360ca85d 1151 main/binary-amd64/Packages.gz
+ fc39ef6533cb61c24e92ddf948d118a54cc062bb90a2b241942d1ec28d1984e7 1180 main/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE5YBFkRnxuNW3XbMznIUVCDsAhhcFAmIWiD0ACgkQnIUVCDsA
+hhcIDhAAiK24p5tkowe3cU8exu0I7CAE4GLxNwzzjkab1CRFo4Gh1dIi9I+PInJC
+O+qzNpWAi5apHrAOS2eCmPBNIcDpjp1kFBe/ilVP/Jw6qpCNvVr4kUHEY9eiRL3H
+Fdgy18XxDEJitvMdAOmNj9UwAU4vpm0RMx9B5+q/v2cspoJ5tn1AyEJvzB+DjN5j
+NppvV+Am4fs7/b4vmZLKOIv3DtMJ8M5eYEmkaskNFINJRiVSMyQ8Iy6yWv7tR0EX
+tjT6BqMLHkR24rE/WOFofVAlmTOlynKt6+e/WH6lafMQb3Mdze/fg9uFcRiEl+5W
+F9DB1yUPUqbx7gj8ksq5pB37uULSZ1a3mOg8p3R8QpT5/a7M4K2IXuDoAzaGfnxt
+g06fUmH1iLzzHSTxu+4Lcjur4g5s8Skjfhvx/LSFvdLROkF6YN2Fqy7JtYfigVBD
+eZP+43dmOwiq+kt5ppoTSVimwuwp4KiZzcQa7+8YFUIxOD8ZCAcrG2x6mJJFZ2Zc
+j8txXWA9E5mYoVKWhHSR8warBBTKuvbvt/WsBoV/qdLoUBejZOtFuVHIp+gnrB9q
+FGVN9GwweCP5BTDjYM3Kv7BfoteYVqe5Q7K4dICdKDTSkcPVru6z1I4zlRMPAkcy
+ONonCA8s3e77rf5Eun/S3ijTcmw7mOSobKn8OuGNuCnlQD+5e1c=
+=Ig3i
+-----END PGP SIGNATURE-----
