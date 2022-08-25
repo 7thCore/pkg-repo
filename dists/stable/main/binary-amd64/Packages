@@ -26,6 +26,20 @@ SHA256: 6770f47e77aa64035caec54f66d7cdf90abef44a88f84325d8c168a63d85f131
 Priority: optional
 Description: Among Us Impostor server script for running the server on linux.'
 
+Package: avnsrv-script
+Version: 1.1-1
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail
+Filename: pkg-debian/pool/main/avnsrv-script_1.1-1_amd64.deb
+Size: 2432704
+MD5sum: 74903c38f170660547163c1d431372c9
+SHA1: daa42468a83dc142da8a8c6ba0755a87fc35f748
+SHA256: 743abda485950fb0d5db2edec5cb4aa13a2264d838df7a7d42556fa8e0c62374
+Priority: optional
+Description: Avorion server script for running the server on linux.
+
 Package: hlnsrv-script
 Version: 1.3-4
 Architecture: amd64
