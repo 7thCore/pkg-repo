@@ -27,16 +27,16 @@ Priority: optional
 Description: Among Us Impostor server script for running the server on linux.'
 
 Package: avnsrv-script
-Version: 1.2-1
+Version: 1.2-2
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
-Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail
-Filename: pkg-debian/pool/main/avnsrv-script_1.2-1_amd64.deb
-Size: 2532576
-MD5sum: 71e68ef81aedb1f55e8895859900b0aa
-SHA1: 3b3fcd3bc34dd1125e3892b851899fee5df6428b
-SHA256: ea2d7266d9260e8edd1fd5697251f979ce0c8eee6214285c02f2033e805b3646
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
+Filename: pkg-debian/pool/main/avnsrv-script_1.2-2_amd64.deb
+Size: 2553460
+MD5sum: e4bada33bae23ff89ed9623d7b28757e
+SHA1: c7420d1fb2f7bc233d7d17ee919b8e56aa29b752
+SHA256: 7dcfdfea6c5422ffe7e29868d77e34cfec76702c7d1906903d80cc3de7f5b715
 Priority: optional
 Description: Avorion server script for running the server on linux.
 
