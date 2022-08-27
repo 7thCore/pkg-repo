@@ -27,16 +27,16 @@ Priority: optional
 Description: Among Us Impostor server script for running the server on linux.'
 
 Package: avnsrv-script
-Version: 1.3-1
+Version: 1.3-3
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/avnsrv-script_1.3-1_amd64.deb
-Size: 2994696
-MD5sum: b71bf157165ee685a8411ab0a913051b
-SHA1: b8227fbf8b41b8e63623a23eee4f805277cbbd9f
-SHA256: 509383f4af6ce80cb23d029c728f132459062bf593cf8bc2e89ddea2e9d68c0a
+Filename: pkg-debian/pool/main/avnsrv-script_1.3-3_amd64.deb
+Size: 3019516
+MD5sum: fde59ac27d2c3cda7aa7ce43c673b509
+SHA1: be3f8b1eb9b14714bafec4c8108ea115b1a73f9a
+SHA256: d8e2e65d61f489d9ed2ec8cadf3a7dd282698b3e0214475e6d4fd788db7e86d5
 Priority: optional
 Description: Avorion server script for running the server on linux.
 
@@ -69,16 +69,16 @@ Priority: optional
 Description: Interstelalr Rift server script for running the server on linux with wine compatibility layer.
 
 Package: mcsrv-script
-Version: 1.4-4
+Version: 1.4-5
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
-Filename: pkg-debian/pool/main/mcsrv-script_1.4-4_amd64.deb
-Size: 2433164
-MD5sum: f85d2d01ea5f8135711ccb2c5145270f
-SHA1: 9bd5622b80a487df3bc88100c14c088c72f3bb6b
-SHA256: fe7ccfe7cd2aecd0d58db3eeb0e4b83d40037991b7bec2c80ee16ea04daea0a1
+Filename: pkg-debian/pool/main/mcsrv-script_1.4-5_amd64.deb
+Size: 2454032
+MD5sum: bc7d23b95332588e50311294730f9b66
+SHA1: 5f9d0ab7980b85104902cfb0e52e7ec6bed6ab36
+SHA256: d9d9b8cafe2cc5952672525b06e70bcf4feb2ea3c7980aac441e627d49779f81
 Priority: optional
 Description: Minecraft server script for running the server on linux.
 
