@@ -1,28 +1,28 @@
 Package: arma3srv-script
-Version: 1.1-1
+Version: 1.1-2
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/arma3srv-script_1.1-1_amd64.deb
-Size: 658628
-MD5sum: 1e7df9cc2e3cdab5842720a252d0c1a7
-SHA1: d78adf5bea7da5510dc367a02ece3834dd90bb10
-SHA256: 0cb4a3ac48f7c4145f8fd63394eef47457bdf865f086d667dbfaf6ac1afd0728
+Filename: pkg-debian/pool/main/arma3srv-script_1.1-2_amd64.deb
+Size: 1310396
+MD5sum: 7b1bb028bf0ed71dffd0e615f3f25c94
+SHA1: 53f5291e250939e750db7a7ed8756f1090447e67
+SHA256: 89fd785b1bbd75c4782076d481bf3e9a2b918afa6bb681f33b90bbbc1f33cd9b
 Priority: optional
 Description: Arma 3 server script for running the server on linux.
 
 Package: ausrv-script
-Version: 1.0-9
+Version: 1.1-1
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail
-Filename: pkg-debian/pool/main/ausrv-script_1.0-9_amd64.deb
-Size: 550052
-MD5sum: 03f211c4617fa3dfce94bfb75412738d
-SHA1: 6a38022572d63ffd6f6db5973cbe741da85909e0
-SHA256: 6770f47e77aa64035caec54f66d7cdf90abef44a88f84325d8c168a63d85f131
+Filename: pkg-debian/pool/main/ausrv-script_1.1-1_amd64.deb
+Size: 1129736
+MD5sum: 8d7bd1ac1b544040d8c70622ae8c4a88
+SHA1: 95b57aa23f4380aaeb7e0935b54f46cf7212a4ea
+SHA256: a173532e9b8e0185419bf0564bea63826025d5dd87c1feef08b0fa2df010e0e0
 Priority: optional
 Description: Among Us Impostor server script for running the server on linux.'
 
@@ -41,16 +41,16 @@ Priority: optional
 Description: Avorion server script for running the server on linux.
 
 Package: hlnsrv-script
-Version: 1.3-4
+Version: 1.3-5
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
-Filename: pkg-debian/pool/main/hlnsrv-script_1.3-4_amd64.deb
-Size: 1802920
-MD5sum: 1cc41ef903a5e8585956d775d8a8af01
-SHA1: 58b6c349310b4ed176acb1adfa3966d6aeb5361f
-SHA256: a9fb67178cbe36e10fbf87236bf889a54eaa60467e8674cc09aa19c458572e92
+Filename: pkg-debian/pool/main/hlnsrv-script_1.3-5_amd64.deb
+Size: 1823820
+MD5sum: d1a809f52ee1dd6cff15d504ce23bab4
+SHA1: 4de412eea01ff8f6194f1bcad13faf66306c162e
+SHA256: 05f7a97a7ab30b227e8fb45f3b5069d67fc117431dc4c000db15ca061e2ce0ab
 Priority: optional
 Description: Hellion server script for running the server on linux with wine compatibility layer.
 
@@ -83,16 +83,16 @@ Priority: optional
 Description: Minecraft server script for running the server on linux.
 
 Package: sesrv-script
-Version: 1.7-3
+Version: 1.7-4
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
-Filename: pkg-debian/pool/main/sesrv-script_1.7-3_amd64.deb
-Size: 2427212
-MD5sum: f770c45bb45593e118815edf0713ad6b
-SHA1: 693fc92d31d5189fe4c4050f1749d2cc369cc00a
-SHA256: ce97f61ffc5ad74f8a1730659c830892aadd80a619b8f8c71b1dc46389b68167
+Filename: pkg-debian/pool/main/sesrv-script_1.7-4_amd64.deb
+Size: 2450048
+MD5sum: ef2a904934d85893df413d5494eb6193
+SHA1: 033a3a1b94e0190bb85a632fb88391fb16a61586
+SHA256: 71953a4350c0509a64cc4d426748c4d6aa89c28fd95a3cc9b0d78771e76a2348
 Priority: optional
 Description: Space Engineers server script for running the server on linux with wine compatibility layer.
 
