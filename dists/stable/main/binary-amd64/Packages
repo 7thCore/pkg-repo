@@ -97,16 +97,16 @@ Priority: optional
 Description: Space Engineers server script for running the server on linux with wine compatibility layer.
 
 Package: sfsrv-script
-Version: 1.1-1
+Version: 1.2-1
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/sfsrv-script_1.1-1_amd64.deb
-Size: 56504
-MD5sum: 536a006b92ae65ab3c577e722524428f
-SHA1: e6aae98e95222e0d5e09df92aee7a25064289884
-SHA256: 15f3410781ea589733a23bdcaeb495ea3a6f1ed87a5a4cc3ff9c5a27bf4c4051
+Filename: pkg-debian/pool/main/sfsrv-script_1.2-1_amd64.deb
+Size: 60128
+MD5sum: ccc36aa5f3801d08a36aafcdba33895f
+SHA1: f0fe06256ded1bb2f2570d132f5e6be42eb4073f
+SHA256: dd3b3b6098364d54cfa6bd65cb091a4099f3222b3fdbebe49ab29342379993c1
 Priority: optional
 Description: Satisfactory server script for running the server on linux.
 
