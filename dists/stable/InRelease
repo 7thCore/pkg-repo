@@ -8,32 +8,20 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Mon, 14 Nov 2022 18:37:31 +0000
-MD5Sum:
- 0cbcde4dcf928a86f6d2c7ad3b907092 4765 main/binary-amd64/Packages
- 36dfdcdc54c589f403304c222dab8df7 1404 main/binary-amd64/Packages.gz
- 87cec9dccc06d750cef268e838c6fd81 1408 main/binary-amd64/Packages.xz
-SHA1:
- 956d53d404d032516f2158f9c67e02263ed30a4b 4765 main/binary-amd64/Packages
- f24d17ca038ddd90ca3fcc4e7658c9d2d4e3d14f 1404 main/binary-amd64/Packages.gz
- 3d7edacf3568a8f96eb58bde40d0c3b2fe42af55 1408 main/binary-amd64/Packages.xz
-SHA256:
- b0d9aa5988511dc79f1be53d2230b3e54c5f0ea5d2bea2b90abbc976ae78a292 4765 main/binary-amd64/Packages
- 4dd484e5be9197f789d0e0269e83e1e5b7309f09fcaaff99bad0393c684c3a25 1404 main/binary-amd64/Packages.gz
- e47fa143837f7a19bf958a1480e02d7a85dddc55a4ea0028842f64ba7fe4c3b5 1408 main/binary-amd64/Packages.xz
+Date: Mon, 14 Nov 2022 20:43:23 +0000
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNyiusACgkQ/c4X/aEL
-e0Y/Xg/9Ed1x7kyIIAzb45SQQCn5dg+m4Jzj6/zM1cE7B1nmNFbv0a88MTfiZesz
-JvA2pwbe/KLNRqV+ELjYdijAElpmu9QkJUew3XyIBaVVWi3rlbXMU9WFwp7rB9l0
-Mr4gOmaKSCLxDZsCnrdvYeZtDU8FuO3UG1Vq7Ust2ZfLS1z3s/ZqeHetzlx704qd
-lnPEHQZE8ax/xiyLfqg2lArXNlEeN3PslOHsqk+EFGxFZteV4O6s6MtfrTrsurRu
-rmyW1SEKF1GB1tJRNgTECyLou9qMndKezyzjtfo+wH5+ruIl9+r7R8rkpzIAJQJq
-u0Vk/tIaQJgmm4LUeHMjIjBThrHj48emlOrmOZP8R3uVSfkW+4C8TWTAiAA4k0rg
-iVTI4fxzMANSKv2mWDbbIJd8dipC1O4+geoFbbhtPGHLehuyjb8FuSH1lCf3K9GP
-SLMgpyAkwe5kHVgPUp+t8CCAeLFrzmdFrJ+sypsqyfcIm+9OTC+uPqz/BsMkTxjv
-Tj0AcP6rmulopKf90cVOXvEbk8iVXrIp3inPsZAtOGjMgiBZjLM3jiAPB7lmc5ly
-biQNMLQxP1AxKvmLKguEpcHHGb8R2bCi7QtnDIASF6WKE0f6Yh2cl7pQdtQY/Jpc
-lbkWM2g5U5BB3TyvHSKHu4S/WAZd6XN/Gvt8n4IU0MFVdeH7K3Q=
-=/fKI
+iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNyqGsACgkQ/c4X/aEL
+e0ZuKhAAnh2kTXv2s6PlBsv0VejoqX+C9l8WHTz7OM2I7VcfeXJi07oUOrb+aqK3
+erfFLh0iWmYMUekg2rc8w5WVuQdgStMMF8niwnTuMH6/pC2RV8pg3W+doYO4d6Yc
+sTEjFyb1KFdlTQSHH6PnCCV7BxVsfWYTC29n9A6hO7PcJSc8yB+whCIAZCZbZaoa
+MbClkgAewrP7a9O+th3+fpHaUatbV3juWGYtssq0VDEAoYfzeln3WlyjJsmRC8Gs
+2catn1kgB6XHE84dBwnhPTpG7BmLo6Ybbo6deh6Jbj4AVbv+AOpi+C/L/JZImVNI
+cro6jkS9Ux11XnUpRSnUUglj0AI6TpLkeOEKhypZ77sa7Dv85fQvEHJCnvMwrUZu
+j34GkKKiRN/Jrb3xK1Ho8K8kLUAD1UNNLBqwiIRvua2VHLd1fBYc821XN/3UzK3+
+rTnksovxeb1K8HmGIUHi/7B0fbxuYYvZU4auzV1PH8v/YGuvcsAySPTuZDG5ZPN7
+pXG+HkNSWOhbGk+731UExtZrFTK0gDUYyrfQtYfPWDq25JB/wxz4xtRN4dtUrQt7
+Ul7tS0w+qTXWzeh44FuvLeKiHVg3k/8fNT2w0Wanwq/pFboEP1ZWu3LNtb1vxoKM
+VpNtwj8029osVQrUEoFgApNOiXFQKIFsPdsxpAectXiNUWUINxc=
+=K5FL
 -----END PGP SIGNATURE-----
