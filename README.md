@@ -8,6 +8,14 @@ Check the wiki for detailed instructions:
 
 -------------------------
 
+# Support
+
+For any problems you may be having, create a new thread in the appropriate support channel on my Discord server.
+
+[![Discord](https://img.shields.io/discord/634022961162223658?color=green&label=Discord&logo=Discord)](https://discord.gg/adzYnwvYUj)
+
+-------------------------
+
 # Donation
 
 If this project helped you in any way, please consider donating.
