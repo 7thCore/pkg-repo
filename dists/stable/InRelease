@@ -5,35 +5,35 @@ Origin: 7thCore-scripts-Debian
 Label: 7thCore-scripts-Debian
 Suite: stable
 Codename: stable
-Architectures: amd64
+Architectures: all
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Sun, 13 Nov 2022 13:25:45 +0000
+Date: Mon, 14 Nov 2022 17:44:51 +0000
 MD5Sum:
- 6f8f8ba2f10123cc2fb8705c7434119c 4765 main/binary-amd64/Packages
- c7d4bded52a62ed45efee492ad64b532 1409 main/binary-amd64/Packages.gz
- 02c98c2ab69a2364df9c7ee7830d9270 1412 main/binary-amd64/Packages.xz
+ dd679765cdc60c88cac193aafa3c657c 4733 main/binary-all/Packages
+ 2a7605a05496f9f3d8c1c9345824124a 1404 main/binary-all/Packages.gz
+ ab9edcda90fb5442b5e996a1fc838e90 1408 main/binary-all/Packages.xz
 SHA1:
- c667777857f0c0059292200da48927b73df465e4 4765 main/binary-amd64/Packages
- d09ad049d2ec9c4a5a47e31976c50097ef0e8b38 1409 main/binary-amd64/Packages.gz
- 6cb095a289935128039582501d92e036acde15bd 1412 main/binary-amd64/Packages.xz
+ 9d4abd994f02796c596b1141f24a542983ec87cd 4733 main/binary-all/Packages
+ 9609cbf982242f16f89f67ccccdbe3e1fde1d543 1404 main/binary-all/Packages.gz
+ 0edb1c1159d7e4052eef76b9902e29c8648de168 1408 main/binary-all/Packages.xz
 SHA256:
- 177b88e876c010096b1398903472721867a7488496524f935914bbbb2460e818 4765 main/binary-amd64/Packages
- d0d6b612c471c98432d883dacf5c6316d1024bca09f2ead36ad4a75ac872eda1 1409 main/binary-amd64/Packages.gz
- 353b6366e81783d85edf5d0c9ec5dcde6adad443345da5e5478374ad11f2927a 1412 main/binary-amd64/Packages.xz
+ 10a86095a0c035cfd8054fbbc9ee26f1bd1bdcaf26c7eb97e8570f81bada127e 4733 main/binary-all/Packages
+ d8f0041b685ea53ddb62f157cff2bdca884608fd60cff678a52b22c281900980 1404 main/binary-all/Packages.gz
+ 458a147975b66cc465c48b2b002c8bb57cc011ea71924616f52df5e162290259 1408 main/binary-all/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNw8FkACgkQ/c4X/aEL
-e0b88w/9FVGZfSzohRLF8LoyW3ZtlpX//PVGIorLXl4dTpv3ncoXch6L7oE9mGQZ
-BlcJZKO5Nq6wSEyOG0Q+5i8negGzBAelx/cFxbMcwBbYgoCOOixGXXikEh2Xm/lO
-jwzQcw0pGhXR4Xtkw8GlDtZkemqMUCDQcRNRkfw8Q3/IIHhXkseybEoxfx2ciZNS
-gNy09aQHYxIJR+lwBVl5qoAbMx2YrTrQ2uEHJNyZ/Bk7kc6yAJEi2pRAKz9LvI/I
-9BwoPxNpeKXQWNmhs7vjLv9/BKaTOcZP/zoItls/YUx5CgVjuthi/OVaUex0ZmBK
-to4IAuAVoTSpS6v3Z+pzEhW+8MX6E8Z1srfVBqAKgxSe61t9XWWy3o178aaKXrpt
-Yjtr5rgDrcUUiFxSja8AutxVW9t43z/Z2jOWSIEldvyV0I47yurbhFgm693fqzS1
-6HzofTikptm/F0f0u8lu4X/Zb9sFaRy+w2XElo8WwZKFM59eNZjuqVzEWnz/mzv1
-avWITg+LT+5H0gPCgH03xx2lhm0qP/Ufmd2wHkMWABYfK8qXTWmSbze/nv+Ncibj
-TKLdlZ03jPWaN7HKBft0f7BXOl72Rg07x/+NbXK8SsqedqMqOn25KNycfl+5HM6C
-KF27jJf+7r8PDwWJKwf8Xte25Gghsj2c5vUyxvoUjyMjYLJFlAE=
-=P2SU
+iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNyfpMACgkQ/c4X/aEL
+e0bLag/+KArWoNx7L1YfpH7+8vyuoZwt/gQRJ77n6IfU1OQOhLXCRIP3GyvE5VDS
+LdbvFg1dWAz2OHJEUr2f+8Z2GXV9bYSGfDL0s1iK8nKWiOJwJ2q6eYHOlhur9glt
+cPRz4BobdMYeWFBI5RUSHXGwRmhvoy11gGNHOMSQ3B3n09h7tnS1XvKR9kIFKXMd
+7nqyf7+INVOhqqnD1N3gIkDmxopDlG0J82nZKvUFMJXBA1GhOlDgEvwu/BlTBWTe
+PYKkHdPzmpJKa844NW+x95nfHnCH39W/pY6elUGO8iB8ktZ3/K/j6QUXduusXENu
+IPshupNfPg4bdG7DgtFZmP7mKLOcfe68Vb7I1HE8nRgQFCirQy95rEzwUTHgZtTI
+bvTKF6nUzXbb7ftXTYpQRzNyDgx838K1L2Y6oMR87ubnqkC7h/ug3STaXvepdtP3
+8jkFJmIVTBRTSOvlK1iSC4J7txiZB9E5YqbOety/Fup5SFEM5U3sIr0rQrpbZRnU
+O28hN4HPEGIiMB34maJSTamQ4k0YUmULfFu1ZkpmLfFBuq2W3HO66W6QXnkTRL6X
+YvpvhL+Rx/ndVF7R3siw2osFoX+9f7qwrtCrZLFzIJoOb1R9iZv40Q9qYSG1tj0/
+FhoV1kNKCCk2Hq5BINCrHumTJHMdbAidvptpIp5VzJIzs6kdXoE=
+=1mjA
 -----END PGP SIGNATURE-----

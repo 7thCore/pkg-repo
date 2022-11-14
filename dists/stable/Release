@@ -2,19 +2,19 @@ Origin: 7thCore-scripts-Debian
 Label: 7thCore-scripts-Debian
 Suite: stable
 Codename: stable
-Architectures: amd64
+Architectures: all
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Sun, 13 Nov 2022 13:25:45 +0000
+Date: Mon, 14 Nov 2022 17:44:51 +0000
 MD5Sum:
- 6f8f8ba2f10123cc2fb8705c7434119c 4765 main/binary-amd64/Packages
- c7d4bded52a62ed45efee492ad64b532 1409 main/binary-amd64/Packages.gz
- 02c98c2ab69a2364df9c7ee7830d9270 1412 main/binary-amd64/Packages.xz
+ dd679765cdc60c88cac193aafa3c657c 4733 main/binary-all/Packages
+ 2a7605a05496f9f3d8c1c9345824124a 1404 main/binary-all/Packages.gz
+ ab9edcda90fb5442b5e996a1fc838e90 1408 main/binary-all/Packages.xz
 SHA1:
- c667777857f0c0059292200da48927b73df465e4 4765 main/binary-amd64/Packages
- d09ad049d2ec9c4a5a47e31976c50097ef0e8b38 1409 main/binary-amd64/Packages.gz
- 6cb095a289935128039582501d92e036acde15bd 1412 main/binary-amd64/Packages.xz
+ 9d4abd994f02796c596b1141f24a542983ec87cd 4733 main/binary-all/Packages
+ 9609cbf982242f16f89f67ccccdbe3e1fde1d543 1404 main/binary-all/Packages.gz
+ 0edb1c1159d7e4052eef76b9902e29c8648de168 1408 main/binary-all/Packages.xz
 SHA256:
- 177b88e876c010096b1398903472721867a7488496524f935914bbbb2460e818 4765 main/binary-amd64/Packages
- d0d6b612c471c98432d883dacf5c6316d1024bca09f2ead36ad4a75ac872eda1 1409 main/binary-amd64/Packages.gz
- 353b6366e81783d85edf5d0c9ec5dcde6adad443345da5e5478374ad11f2927a 1412 main/binary-amd64/Packages.xz
+ 10a86095a0c035cfd8054fbbc9ee26f1bd1bdcaf26c7eb97e8570f81bada127e 4733 main/binary-all/Packages
+ d8f0041b685ea53ddb62f157cff2bdca884608fd60cff678a52b22c281900980 1404 main/binary-all/Packages.gz
+ 458a147975b66cc465c48b2b002c8bb57cc011ea71924616f52df5e162290259 1408 main/binary-all/Packages.xz
