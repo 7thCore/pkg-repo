@@ -1,112 +1,112 @@
 Package: arma3srv-script
 Version: 1.1-3
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/arma3srv-script_1.1-3_all.deb
-Size: 1333760
-MD5sum: 1c771d0f99f2602f8e79eed627ba7c16
-SHA1: e6f3e9b1e478b8a1fd9cecd4e36ef23801dcafed
-SHA256: 393fe3daa6684db6490818df0b6bc08d7db0497109816ddd41718a1984de473b
+Filename: pkg-debian/pool/main/arma3srv-script_1.1-3_amd64.deb
+Size: 1354412
+MD5sum: a576527494e6609b9c8ec3d7daf2bc78
+SHA1: 958a3448b93c9f87858076b96b66e7af57decab1
+SHA256: 294261953e16fc3d5ee83ca5991fdc23e2a9ec1da5d615b8f6ba224f15d0d386
 Priority: optional
 Description: Arma 3 server script for running the server on linux.
 
 Package: ausrv-script
 Version: 1.1-2
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail
-Filename: pkg-debian/pool/main/ausrv-script_1.1-2_all.deb
-Size: 1143644
-MD5sum: 21be157202717287c9495e23a012aeb6
-SHA1: f96c13950cc806e6d1e13ad35e12e261d8c38d4f
-SHA256: 8a08b8cdc381a6845fc4bbeed3574ddcf105e1afe53d6b7bd3f572cf78669e16
+Filename: pkg-debian/pool/main/ausrv-script_1.1-2_amd64.deb
+Size: 1155068
+MD5sum: adf397389196f3a8817ad2c8ffe642e2
+SHA1: bd9b8b0f44bd4ba21d491775aa927eb3d6ccafb9
+SHA256: 2c7ad4bb26b5bb781fd7b985fbb39365158bab0ea905b866f049f043b848fd0b
 Priority: optional
 Description: Among Us Impostor server script for running the server on linux.'
 
 Package: avnsrv-script
 Version: 1.3-5
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/avnsrv-script_1.3-5_all.deb
-Size: 3052672
-MD5sum: 847c7deb75c93f73341f5a9ab240092e
-SHA1: 93d891ef8bbb532f8b7e84fbdd79bf6f0ca334b2
-SHA256: bc120d20dbdcff6fc7d331e7ba8c8430a554bfeb47638495834e0608e156e041
+Filename: pkg-debian/pool/main/avnsrv-script_1.3-5_amd64.deb
+Size: 3053780
+MD5sum: a04fa5bcc4d1bf4e01b3ba1304daab2d
+SHA1: a933257125182d570342fd49b5122e1bbc6be001
+SHA256: 8f6a04f9e12e02cae180c61b1dd0d863bcb1ee44587d64f07badf413beec428e
 Priority: optional
 Description: Avorion server script for running the server on linux.
 
 Package: hlnsrv-script
 Version: 1.3-6
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
-Filename: pkg-debian/pool/main/hlnsrv-script_1.3-6_all.deb
-Size: 1840952
-MD5sum: 3ed5002e4229dbc2eb6dab4758b0aa60
-SHA1: dd92953cee1b2918292e30d4492db0d68273ea4e
-SHA256: 3c279a8acd0d54aab322496009a2b830d79881b5ecd0377074b70acbe59da021
+Filename: pkg-debian/pool/main/hlnsrv-script_1.3-6_amd64.deb
+Size: 1842732
+MD5sum: 2523ccfa54c68c90ccf95fa4477d2cad
+SHA1: 783fb8554ade782fa191659036a718eaa99ceefb
+SHA256: 7a688470c4f55e35bf256c422d8936c1aa4124e4f3ad060fa7f6ec4a7c5f2053
 Priority: optional
 Description: Hellion server script for running the server on linux with wine compatibility layer.
 
 Package: isrsrv-script
 Version: 1.7-5
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
-Filename: pkg-debian/pool/main/isrsrv-script_1.7-5_all.deb
-Size: 3019624
-MD5sum: 1690dbbd59bf404bd40d23abbde05105
-SHA1: 4939020bc3414cbcdedf5cb0c78d118e8f48f51d
-SHA256: 67b66d63ac2c4c8b56d7538cbe85a6910ed28b4d7fea48863279c41b55490965
+Filename: pkg-debian/pool/main/isrsrv-script_1.7-5_amd64.deb
+Size: 3044260
+MD5sum: cb810299ca9bfa3b108b99839ef3abe8
+SHA1: 18d03786243d5c5fcd268330e7074aa49392169f
+SHA256: 51a3be36e6126b860ed81a6d9b4558d5df8d67410cac995f5aea01b79e9fe697
 Priority: optional
 Description: Interstelalr Rift server script for running the server on linux with wine compatibility layer.
 
 Package: mcsrv-script
 Version: 1.4-6
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
-Filename: pkg-debian/pool/main/mcsrv-script_1.4-6_all.deb
-Size: 2474200
-MD5sum: 9ac3b7d10d74daa4978b6be44c6063fe
-SHA1: 901c573b183cceaac5d0b414cfc8ea67ebd8e44e
-SHA256: 227f088947eb6807902c0b9d16ae70c53945bc8ffcd02c0c0f0d33e92fee825d
+Filename: pkg-debian/pool/main/mcsrv-script_1.4-6_amd64.deb
+Size: 2492220
+MD5sum: 16c6ae97e7c351e2755cebfbd29896cf
+SHA1: 4f061aa0b7dbb752fc979a59de8b9a9fcc3d488f
+SHA256: c21b6d1f15d256d8bfa6391200ca491f547436f8bd20449cbce04741099bd204
 Priority: optional
 Description: Minecraft server script for running the server on linux.
 
 Package: sesrv-script
 Version: 1.7-5
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
-Filename: pkg-debian/pool/main/sesrv-script_1.7-5_all.deb
-Size: 2468816
-MD5sum: b6e5e415775530f9efa98cc2858952c2
-SHA1: 4fd67debbfc7ed040635167f5a736f84f774f72b
-SHA256: 51f954e9d2f91be3a446c2c9e95a417bccd335e2fc20ae5b9232f84bac5c316c
+Filename: pkg-debian/pool/main/sesrv-script_1.7-5_amd64.deb
+Size: 2489280
+MD5sum: 855513c00c9bfa7dd5be57f1e1e7fa73
+SHA1: 0f2e948ae6395ea5846b1ccb3735be26f9d56db0
+SHA256: 863880d24af1621c3d091240875c3477beb03d238ca344faff06a55b797606c1
 Priority: optional
 Description: Space Engineers server script for running the server on linux with wine compatibility layer.
 
 Package: sfsrv-script
 Version: 1.2-2
-Architecture: all
+Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pkg-debian/pool/main/sfsrv-script_1.2-2_all.deb
-Size: 81236
-MD5sum: dba8a28404bbd98b9cccf64312349d7a
-SHA1: 1879a6a78f98d44bcc8d255f458a1e6d41e9c4f2
-SHA256: 60185d8a0b59237b582bda31100bbd5626a1252930b5aa97163b684f84126ef3
+Filename: pkg-debian/pool/main/sfsrv-script_1.2-2_amd64.deb
+Size: 99928
+MD5sum: 24ce191b4f7d3dd31340edfb0ed22f7d
+SHA1: 937908966e3a21f32b054a8c33b97cb1f7c202b5
+SHA256: 91188cb3736285cc22b6901f12d9b4543be95b06493c469eb2cb638da6d7104b
 Priority: optional
 Description: Satisfactory server script for running the server on linux.
 
