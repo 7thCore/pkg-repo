@@ -5,4 +5,16 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Mon, 14 Nov 2022 20:43:23 +0000
+Date: Mon, 14 Nov 2022 20:51:46 +0000
+MD5Sum:
+ c876248ce695cc7632906d98dc7432b4 4677 main/binary-amd64/Packages
+ 9019c06f92fd537011f518d2974aa72b 1394 main/binary-amd64/Packages.gz
+ 1150ff0e0a434905a5d41ebc79cff7b4 1400 main/binary-amd64/Packages.xz
+SHA1:
+ d05f227c7269b810521e03084ca967a1c06fc289 4677 main/binary-amd64/Packages
+ c8527c02fad37fb6f0d976c4c9b32819508aebdc 1394 main/binary-amd64/Packages.gz
+ de3f52dc81855408413a3ef996b3c8ef67e125b8 1400 main/binary-amd64/Packages.xz
+SHA256:
+ 1662f50367c5581cf8ae542c67367c1243fcb2475336efc658bd9c72efc2b50c 4677 main/binary-amd64/Packages
+ 356e74baa62be8ff0fb6152bdc0c17581eaae03cd2e247aedb48ee86184f7701 1394 main/binary-amd64/Packages.gz
+ 5d9b14672ca6de43819746414a1991434843f3f355e98a084b9b886d96822d14 1400 main/binary-amd64/Packages.xz

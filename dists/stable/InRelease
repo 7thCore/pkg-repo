@@ -8,20 +8,32 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Mon, 14 Nov 2022 20:43:23 +0000
+Date: Mon, 14 Nov 2022 20:51:46 +0000
+MD5Sum:
+ c876248ce695cc7632906d98dc7432b4 4677 main/binary-amd64/Packages
+ 9019c06f92fd537011f518d2974aa72b 1394 main/binary-amd64/Packages.gz
+ 1150ff0e0a434905a5d41ebc79cff7b4 1400 main/binary-amd64/Packages.xz
+SHA1:
+ d05f227c7269b810521e03084ca967a1c06fc289 4677 main/binary-amd64/Packages
+ c8527c02fad37fb6f0d976c4c9b32819508aebdc 1394 main/binary-amd64/Packages.gz
+ de3f52dc81855408413a3ef996b3c8ef67e125b8 1400 main/binary-amd64/Packages.xz
+SHA256:
+ 1662f50367c5581cf8ae542c67367c1243fcb2475336efc658bd9c72efc2b50c 4677 main/binary-amd64/Packages
+ 356e74baa62be8ff0fb6152bdc0c17581eaae03cd2e247aedb48ee86184f7701 1394 main/binary-amd64/Packages.gz
+ 5d9b14672ca6de43819746414a1991434843f3f355e98a084b9b886d96822d14 1400 main/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNyqGsACgkQ/c4X/aEL
-e0ZuKhAAnh2kTXv2s6PlBsv0VejoqX+C9l8WHTz7OM2I7VcfeXJi07oUOrb+aqK3
-erfFLh0iWmYMUekg2rc8w5WVuQdgStMMF8niwnTuMH6/pC2RV8pg3W+doYO4d6Yc
-sTEjFyb1KFdlTQSHH6PnCCV7BxVsfWYTC29n9A6hO7PcJSc8yB+whCIAZCZbZaoa
-MbClkgAewrP7a9O+th3+fpHaUatbV3juWGYtssq0VDEAoYfzeln3WlyjJsmRC8Gs
-2catn1kgB6XHE84dBwnhPTpG7BmLo6Ybbo6deh6Jbj4AVbv+AOpi+C/L/JZImVNI
-cro6jkS9Ux11XnUpRSnUUglj0AI6TpLkeOEKhypZ77sa7Dv85fQvEHJCnvMwrUZu
-j34GkKKiRN/Jrb3xK1Ho8K8kLUAD1UNNLBqwiIRvua2VHLd1fBYc821XN/3UzK3+
-rTnksovxeb1K8HmGIUHi/7B0fbxuYYvZU4auzV1PH8v/YGuvcsAySPTuZDG5ZPN7
-pXG+HkNSWOhbGk+731UExtZrFTK0gDUYyrfQtYfPWDq25JB/wxz4xtRN4dtUrQt7
-Ul7tS0w+qTXWzeh44FuvLeKiHVg3k/8fNT2w0Wanwq/pFboEP1ZWu3LNtb1vxoKM
-VpNtwj8029osVQrUEoFgApNOiXFQKIFsPdsxpAectXiNUWUINxc=
-=K5FL
+iQIzBAEBCAAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmNyqmIACgkQ/c4X/aEL
+e0ZJ6w/9F03Jmy2jy8+3+YX9coEoUPV64rK8NP1vchd2y8weDhdNExMNdIKtfzQh
+QI7rSkYoB5fZV3pXTbF/hvY2/7SpPsIvi34axM3T7yISkE/vZjZUqSxknaWwfIB9
+937SpownSsogZiXnICzZXSBTircZpedwhQ43elfAOZThxd0tR6vXzlv3iXgYLHIC
+lko8dL0WQPPzl2Q6WOFH1FeJfl3zyLgw5gjjn5LVBfBSEBDVUXyfNtU9kMgCzuxO
+3rq2Lpyk/yNO9WaOsywELXs5UuSuKSLF1rJn+1md65KuaBeWJAXPJTK+qF0iZbSb
+0fMM8JgMvHl61uNiR9MqkdgPRsZ3OyKCg68vcNXIFdjaOUNmnrRaySOu9Oz3A82y
+difRz5SP5FVg5MZ5tuLtt3gM+gUTAPJszMIKavTN6JNdem18+CsMYACxDpw9vl5w
+7HTzZhlwmPo2qGhXgSoiQ1EomJyfMly9i/UHeDoQ7F7KR2cHaxuX/k27MRqSl6Ja
+bwnCKHLFCI7QnVC3+MiFeUQQ6nHGvM5CLi9gYQu4+3IOSJXpfiy8deaZMc8vyjQe
+LqZJC1GwEZ3GOrbjb9klebXjqHJuuLVIpSi/A83RpWi0FpnBYT0z58CXEoyyt85E
+O6kYUNI5euX7xKvvp4EVkt9phj2pL4U/QPAU/QEOV9maWn3ROoo=
+=fnjF
 -----END PGP SIGNATURE-----
