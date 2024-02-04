@@ -1,14 +1,14 @@
 Package: 7d2dsrv-script
-Version: 1.0-8
+Version: 1.0-9
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
-Filename: pool/main/7d2dsrv-script_1.0-8_amd64.deb
-Size: 16484
-MD5sum: 44e4b8e40e3374bfff9e4bb43f7f3955
-SHA1: 4ea1a27cc76cf2300aa036106e7cf129b0bbcba7
-SHA256: 738ae49a4ccd958890fba9432adb11ca10cd5cc8d8e77906d5567254d76218b3
+Filename: pool/main/7d2dsrv-script_1.0-9_amd64.deb
+Size: 118732
+MD5sum: a824e5a7ca27c94bbd3ad77620f23d85
+SHA1: b503c392a91ec4bbe0d59f8c7b27189c22a91c6e
+SHA256: 0ac62870f4412e00000f3f8ff7e76f834abb2fdd70f4ed8f9d11eca71e671d06
 Priority: optional
 Description: 7 Days to Die server script for running the server on linux.
 
