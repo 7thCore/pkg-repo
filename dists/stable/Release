@@ -5,16 +5,16 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: 7thCore's Debian scripts repository
-Date: Thu, 08 Dec 2022 13:19:52 +0000
+Date: Sun, 04 Feb 2024 20:58:37 +0000
 MD5Sum:
- 5ba469d71a44d4dbcd0f8007418c4ecc 4677 main/binary-amd64/Packages
- 1f5982329d651c4911b4be6290f14f78 1389 main/binary-amd64/Packages.gz
- c3bde54443a0fef32dca2c409de2eaa9 1400 main/binary-amd64/Packages.xz
+ 74695b824e96f15891330fdb15e362bb 5238 main/binary-amd64/Packages
+ 425f0971ebfa853148db694c3ac67448 1517 main/binary-amd64/Packages.gz
+ 79707a4e01adeeee7d983137198184dd 1516 main/binary-amd64/Packages.xz
 SHA1:
- 47bb2653e3d3c8381de710ed2994304e16d5026f 4677 main/binary-amd64/Packages
- 5491fab1a213225252ad3a69532a0fec71a3e203 1389 main/binary-amd64/Packages.gz
- 7b4c232f26bdc75a8be0fa0139db5f86da83a2a4 1400 main/binary-amd64/Packages.xz
+ 5938c4f8883500a133d6fecb16847c891fe40cd5 5238 main/binary-amd64/Packages
+ 73589e9bd5cf9c5994c498612a28cca0f572c582 1517 main/binary-amd64/Packages.gz
+ 1d22bad51d0004bceb33497f0a94e3552dd577b2 1516 main/binary-amd64/Packages.xz
 SHA256:
- 7413100c11c4363b4caf19bd7664940413954c20a31ff88c9562e314c8b3bf2a 4677 main/binary-amd64/Packages
- 4d67a801fbfd5549c57987e9182dd7443fa0c3d4c4d5f7117f551a86cb3b3af4 1389 main/binary-amd64/Packages.gz
- ad318881bad48e4bf9afcd50d5e9e391958fa41e785c00d27e1c520e719c46f0 1400 main/binary-amd64/Packages.xz
+ df49fd9300f50ef680c0d1bd525ae19946caa1b1ee7279f5dddf7385e1dc836c 5238 main/binary-amd64/Packages
+ e440798b5d1616474d360474bd011785404fee6ff448010c319e1f18b8aeae39 1517 main/binary-amd64/Packages.gz
+ 7d860949d445c6e7aa4a19dcf23ee9f8bf23c95db2b94561d61e877cd7e6720e 1516 main/binary-amd64/Packages.xz
