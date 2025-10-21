@@ -1,0 +1,126 @@
+Package: 7d2dsrv-script
+Version: 1.1-3
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
+Filename: pool/main/7d2dsrv-script_1.1-3_amd64.deb
+Size: 184544
+MD5sum: 45a714005f54f3d69f9fdb228f16f1fa
+SHA1: be0aa0fd523a02ad7b829415fbff45f2a3e134a2
+SHA256: 1d37b41f932294e33fe8107e7617a823eb268e0d9a593f4239c667e34a6fb20f
+Priority: optional
+Description: 7 Days to Die server script for running the server on linux.
+
+Package: arma3srv-script
+Version: 1.2-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
+Filename: pool/main/arma3srv-script_1.2-4_amd64.deb
+Size: 1401676
+MD5sum: 44501547327704f586f204c63c72f802
+SHA1: c4019f1e1826bef5e63c2ba92deafd7db4567f91
+SHA256: bfd30580ec175747ad29d0dd6f92f03f7a7841cc71d048ce1ddd8d66e1736b96
+Priority: optional
+Description: Arma 3 server script for running the server on linux.
+
+Package: ausrv-script
+Version: 1.2-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail
+Filename: pool/main/ausrv-script_1.2-4_amd64.deb
+Size: 1185588
+MD5sum: 0b7fe809d276847c598fbdde69f270bb
+SHA1: 784e34d016827c3e2ff9937516d45bfd0864f167
+SHA256: 41a3aab9743b32aa114359851cf05cce2010ea4f4b154bc905d3bbf02ad04b41
+Priority: optional
+Description: Among Us Impostor server script for running the server on linux.'
+
+Package: avnsrv-script
+Version: 1.4-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
+Filename: pool/main/avnsrv-script_1.4-4_amd64.deb
+Size: 3094372
+MD5sum: b581665e2840f134d5002749e4300d2e
+SHA1: ef4cb8f4a544c36a4453888ee66ad65f312d40b4
+SHA256: 0d488715f33c170107cf6933799910b0fe8198b303b8ff5218b6b59806f3ad54
+Priority: optional
+Description: Avorion server script for running the server on linux.
+
+Package: hlnsrv-script
+Version: 1.5-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging
+Filename: pool/main/hlnsrv-script_1.5-4_amd64.deb
+Size: 1896712
+MD5sum: 00c2c6e0aa9dc4e63bc81289c178c5af
+SHA1: f4c82692cac6b574c3332468e2a373bef7aa3d63
+SHA256: 0c8a7d5be9a2e6e1f2665baf863322065cef430ceaa330d40d8498a402484e6f
+Priority: optional
+Description: Hellion server script for running the server on linux with wine compatibility layer.
+
+Package: isrsrv-script
+Version: 1.8-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
+Filename: pool/main/isrsrv-script_1.8-4_amd64.deb
+Size: 3096896
+MD5sum: bcfa82abb403e84b5b0b8e948ca7f817
+SHA1: ef52ff1a7399bce4741c1db92320a672b4c4fec2
+SHA256: b5e27d6369bc9699e39f7b1e501aed15279967949979e7fb704bbb430defcc54
+Priority: optional
+Description: Interstelalr Rift server script for running the server on linux with wine compatibility layer.
+
+Package: mcsrv-script
+Version: 1.5-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
+Filename: pool/main/mcsrv-script_1.5-4_amd64.deb
+Size: 2551940
+MD5sum: 84396157868b564e0d1bf668f3d78843
+SHA1: 4fcc14a727e17b991c51f2242344f2df64f49532
+SHA256: 4a24f4825b3b292d4e501ef86dc8ac093027169e50a12f50b81ffa60290aaa43
+Priority: optional
+Description: Minecraft server script for running the server on linux.
+
+Package: sesrv-script
+Version: 1.8-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, zip, unzip, p7zip, postfix, s-nail, cabextract, xvfb, steamcmd, winehq-staging (<= 7.1)
+Filename: pool/main/sesrv-script_1.8-4_amd64.deb
+Size: 2533980
+MD5sum: 7af9113340574a1ad9a6ac590c8b8c3c
+SHA1: 7f32b057f8371051af406ec7a497f826c5c91c26
+SHA256: 1f9815ce5ed6b313fde44c286ebf2c91713ed700e48c9ada3b49150ad856bdb7
+Priority: optional
+Description: Space Engineers server script for running the server on linux with wine compatibility layer.
+
+Package: sfsrv-script
+Version: 1.4-4
+Architecture: amd64
+Essential: no
+Maintainer: 7thCore
+Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, steamcmd
+Filename: pool/main/sfsrv-script_1.4-4_amd64.deb
+Size: 160964
+MD5sum: 9d85f249d9fe6c8184fe6b62c516dfd6
+SHA1: 38b7c3aa2a3dee3589e3d211ac96f57bf56648e9
+SHA256: b81fb132623f82420ae12592782f4cf9135dd41a04cad6623a0a6216d499ac60
+Priority: optional
+Description: Satisfactory server script for running the server on linux.
+

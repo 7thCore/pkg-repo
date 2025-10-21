@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: 7thCore-scripts-Debian
+Label: 7thCore-scripts-Debian
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: 7thCore's Debian scripts repository
+Date: Fri, 10 Oct 2025 08:37:52 +0000
+MD5Sum:
+ 508fa98492e8235ef2703eb6e88b2274 5231 main/binary-amd64/Packages
+ 53fe941f49ae6b702a76bc3da43ec45f 1510 main/binary-amd64/Packages.gz
+ a264d7a590324f3e4e7a791a7a22808f 1512 main/binary-amd64/Packages.xz
+SHA1:
+ 8015fc3e0500f5b76fe59d62146287e4052e0cf7 5231 main/binary-amd64/Packages
+ 60514cabce284a4858c13ca13904e81e324c80b0 1510 main/binary-amd64/Packages.gz
+ 38bb07baa5b63d84fb51dbba8898159ae795042e 1512 main/binary-amd64/Packages.xz
+SHA256:
+ 10f9a2b98f7e9fde5298feae72d154921d79c025a1e296a53ea8a4fea7e1a8fc 5231 main/binary-amd64/Packages
+ 9cb74a2e90d817cf20f8a78845140bb0beab0dd300307f5febb9bff8feaa2d8c 1510 main/binary-amd64/Packages.gz
+ 751833b7f0991ceb8dd285a34f994e704d69709376b461021fad70acb0b378f1 1512 main/binary-amd64/Packages.xz
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEeMAyaqqEXSoEiZPF/c4X/aELe0YFAmjoxeAACgkQ/c4X/aEL
+e0a5mA/+JD8fGrtNk8Y0Z3WJMX8Wr31f6LdPWKUbxLx+jp7mV+OZMIhxWfx5PKSV
+2IUvFW9uoWewUe5PszBMGLdnESjQtrgyZAhKse2gnPed2i64W9w1RnOWZbIpvWbt
+MiQ7xHm8Gjv6cJ8tWpUhXmrbbhHjV71Yn1/njgz/47+NxIsXRhAPpHrUs8nwSxjt
+1+JL6WTXpCv8XMlTqGPd3aTaMgqWTxqA4XxGWtgYwnGWN3UV3DFardVcgm43O+S9
+LHjclcI5L6kAcJvQ9b0AdOZF6aR1CEAz37tPfVQ2EBYREdr8Oty9fBjgS5LSNAt+
+Hp0n7+ASnPw+khho1+3MeF08dNDSBbGR19mhLo5uCbnAPSZa2Nv3RTWJJ1ky3pVz
+O7+xSaRicq/OaVa3HNdB6Fs9arsvt6FGlMTLClM5k8gmtH1OLSkIiTX614VnOlFL
+VLux+LMvETeILuuPWjvEarXOw10VVNU8ZFa5hWhSzneZTUCp9MEOehWXqZkO63wW
+4KJd+YSCXqzkloLEQwEjjjW3zLehDvQo/MsFza/93C71iLbikcffkVCpL7621SjF
+3bioiZ6RYHHi2QQHOLqHWHmwLLmKVkHZIrYwt8GsjniF0yA6CV5DTidcggMchBy3
+E3a62Hp37ewqhtAfCR4qLHaxl8mHRqDZc3aK8GQ6719TEGUBflQ=
+=J23y
+-----END PGP SIGNATURE-----
