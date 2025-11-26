@@ -83,16 +83,16 @@ Priority: optional
 Description: Interstelalr Rift server script for running the server on linux with wine compatibility layer.
 
 Package: mcsrv-script
-Version: 1.5-5
+Version: 1.5-6
 Architecture: amd64
 Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
-Filename: pool/main/mcsrv-script_1.5-5_amd64.deb
-Size: 74560
-MD5sum: b8d50c26299a24d1d9228eaca091fb92
-SHA1: 878b73613f2bc7ec7432a1935b6a9408ec3a21cb
-SHA256: b53b5bd57ff66ffdaf6ce79ff1a096686953aee214f88024ded55c26871dfbac
+Filename: pool/main/mcsrv-script_1.5-6_amd64.deb
+Size: 96868
+MD5sum: 7fd5af21c7f14a0d4e10d59dfcf90d18
+SHA1: 992628087aa06028ca340b1376e86b16e87aae8e
+SHA256: a50ef1cf6e99af1952902333eda915269d87f4d758a5395c214391cbb9fbc5e4
 Priority: optional
 Description: Minecraft server script for running the server on linux.
 
