@@ -89,10 +89,10 @@ Essential: no
 Maintainer: 7thCore
 Depends: bash, coreutils, sudo, libpam-systemd, grep, sed, gawk, curl, rsync, wget, findutils, tmux, jq, zip, unzip, p7zip, postfix, s-nail, openjdk-17-jre-headless
 Filename: pool/main/mcsrv-script_1.5-5_amd64.deb
-Size: 60052
-MD5sum: 64070f789c98ecd000de3add7367b8f5
-SHA1: 3389891f04185f28fe45a8b7bde1b2669dd3758b
-SHA256: 5e40838ff8cedc9cd3286026f0622d9e19d1dbb5f55c69e7e34be7b11b53a554
+Size: 74560
+MD5sum: b8d50c26299a24d1d9228eaca091fb92
+SHA1: 878b73613f2bc7ec7432a1935b6a9408ec3a21cb
+SHA256: b53b5bd57ff66ffdaf6ce79ff1a096686953aee214f88024ded55c26871dfbac
 Priority: optional
 Description: Minecraft server script for running the server on linux.
 
